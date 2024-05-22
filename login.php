@@ -106,7 +106,6 @@ session_start();
     </style>
 </head>
 <body>
-        <img class="image" src="pp-.png" alt="">
     <div class="header">
         <span class="welcome">Welcome</span>
     </div>
